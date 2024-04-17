@@ -1,0 +1,1 @@
+# Chào các bạn, đây là repo mang mục đích cho các bạn tham khảo về cách viết unit test với Jest và Javascript, hy vọng mọi người sẽ tìm được thứ gì đó hữu ích ở repo này :D
